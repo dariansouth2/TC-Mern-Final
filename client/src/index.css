@@ -5,11 +5,11 @@ body {
     'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: rgb(159, 154, 255);
+  background: rgb(162, 160, 202);
   background: linear-gradient(
     90deg,
     rgba(159, 154, 255, 1) 0%,
-    rgba(0, 166, 200, 1) 100%
+    rgb(73, 75, 76) 100%
   );
   color: white;
 }

@@ -11,7 +11,7 @@ import React, {
   } from 'react-query';
   import deleteTodoRequest from '../api/deleteTodoRequest';
   import updateTodoRequest from '../api/updateTodoRequest';
-  import { debounce } from 'loadash'; 
+  import { debounce } from 'lodash'; 
   import { TokenContext } from '../App';
   
   export const TodoItem = ({ todo }) => {
