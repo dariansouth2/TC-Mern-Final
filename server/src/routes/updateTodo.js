@@ -1,4 +1,4 @@
-const TodoModel = require('..models/TodoModel');
+const TodoModel = require('../models/TodoModel');
 
 
 module.exports = async (req,res) =>{
